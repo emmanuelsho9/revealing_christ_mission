@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815521595195",
+    "project_id": "revealingchristmission-2f35d",
+    "storage_bucket": "revealingchristmission-2f35d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815521595195:android:5b429784e260a47776c11e",
+        "android_client_info": {
+          "package_name": "com.example.revealing_christ_mission"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815521595195-akl54o951cjf2jo2fsbm3fm43vd57nsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYHNXS2Yr4pGf48V-svYJpiTXVyM7eUnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815521595195-akl54o951cjf2jo2fsbm3fm43vd57nsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
