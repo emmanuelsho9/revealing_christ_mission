@@ -4,6 +4,7 @@ import 'package:get/get.dart';
 import 'package:revealing_christ_mission/view/Login/SingUp.dart';
 
 import '../../constantWidget/InputFieldLogin.dart';
+import 'ListofDashBoard/ListUI.dart';
 import 'bottomNav/bottonNav.dart';
 import 'menu/navigationBar.dart';
 import '../../constantWidget/screenUtiContant.dart';
@@ -34,7 +35,9 @@ class PlayStation extends StatelessWidget {
       drawer:const Drawer(
         backgroundColor:  Color(0xFFBF843B),
         child: navigationBar(),
-      ),      backgroundColor: Colors.white,
+      ),
+      backgroundColor: Colors.white,
+      Cbody: ListUI(),
     );
   }
 }
