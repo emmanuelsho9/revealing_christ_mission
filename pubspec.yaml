@@ -43,11 +43,19 @@ dependencies:
   firebase_core: ^2.4.0
   cloud_firestore: ^4.3.0
   firebase_auth: ^4.2.3
+  icons_launcher: ^2.0.6
 flutter_native_splash:
   color: "#ffffff"
   image: assets/img_2.png
   andriod: true
   ios: true
+icons_launcher:
+  image_path: "assets/img_2.png"
+  platforms:
+    android:
+      enable: true
+    ios:
+      enable: true
 
 dev_dependencies:
   flutter_test:
